@@ -157,6 +157,10 @@ Key architecture rules:
 - AI disclaimer and refund policy wording
 - Whether the app can be used without an account (currently assumed no)
 
+## Running the iOS app
+
+The SwiftUI app is in `StoryPills/`. Open `StoryPills.xcodeproj` in Xcode 16+, pick an iPhone simulator and press Cmd+R. See [docs/ios-app.md](docs/ios-app.md) for the project layout and next steps.
+
 ## Contributing
 
 All code lives in this repo, and every change is reviewed by a teammate before merging (NFR-M4).

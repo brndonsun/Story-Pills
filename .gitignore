@@ -1,0 +1,9 @@
+# Xcode
+xcuserdata/
+DerivedData/
+build/
+*.xcuserstate
+.DS_Store
+# Prototype
+node_modules/
+dist/
